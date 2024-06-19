@@ -1,4 +1,4 @@
-# Busca de peças de carros;
+# Busca de carros;
 # Em desenvolvimento;
 # Tipos de tecnologias usadas para este projeto: GitHub, NetBeans e MySQL WorkBench;
 # Desenvolvedor de software, Disigners de interfaçe de usuário, Disigners de experiência do usuario e QA;
